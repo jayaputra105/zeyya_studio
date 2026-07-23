@@ -1,0 +1,19 @@
+{
+  "siteName": "Zeyya Studio",
+  "tagline": "Membangun aset digital yang siap menghadapi era digital",
+  "address": "Indonesia",
+  "phone": "+62 821-9987-0047",
+  "email": "hello@zeyyastudio.com",
+  "businessHours": "Senin – Sabtu, 09.00 – 18.00 WIB",
+  "currency": "IDR",
+  "language": "id",
+  "timezone": "Asia/Jakarta",
+  "maintenanceMode": false,
+  "allowComments": false,
+  "publishConfig": {
+    "secret": "",
+    "githubOwner": "",
+    "githubRepo": "",
+    "githubBranch": "main"
+  }
+}

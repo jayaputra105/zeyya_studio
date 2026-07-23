@@ -1,0 +1,33 @@
+{
+  "default": {
+    "title": "Zeyya Studio – Jasa Website & Branding untuk UMKM Indonesia",
+    "description": "Zeyya Studio hadir untuk membantu bisnis Indonesia tampil profesional di era digital. Website modern, logo, dan branding yang menghasilkan pelanggan nyata.",
+    "keywords": "jasa website, jasa web, bikin website, jasa desain logo, branding umkm, website murah, website profesional, digital marketing indonesia",
+    "canonical": "https://zeyyastudio.com",
+    "robots": "index, follow"
+  },
+  "openGraph": {
+    "title": "Zeyya Studio – Solusi Digital untuk Bisnis Indonesia",
+    "description": "Website, logo, dan branding yang tidak hanya indah tapi benar-benar menghasilkan pelanggan.",
+    "image": "/og-image.png",
+    "url": "https://zeyyastudio.com",
+    "type": "website",
+    "siteName": "Zeyya Studio"
+  },
+  "twitter": {
+    "title": "Zeyya Studio – Solusi Digital untuk Bisnis Indonesia",
+    "description": "Website, logo, dan branding yang tidak hanya indah tapi benar-benar menghasilkan pelanggan.",
+    "image": "/og-image.png",
+    "card": "summary_large_image"
+  },
+  "sitemap": {
+    "enabled": true,
+    "changefreq": "weekly",
+    "priority": "0.8"
+  },
+  "analytics": {
+    "googleAnalyticsId": "",
+    "googleTagManagerId": "",
+    "facebookPixelId": ""
+  }
+}

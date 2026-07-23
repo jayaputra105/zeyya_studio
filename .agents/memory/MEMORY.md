@@ -1,0 +1,1 @@
+- [Zeyya Studio CMS Architecture](zeyya-cms-architecture.md) — full CMS built in zeyya_studio/; root API server serves /api; paths need ../../../ from dist/ to reach workspace root.

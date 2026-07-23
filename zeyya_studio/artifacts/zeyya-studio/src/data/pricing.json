@@ -1,0 +1,79 @@
+{
+  "badge": "Harga & Paket",
+  "title": "Investasi yang",
+  "titleAccent": "Sepadan dengan Hasilnya",
+  "description": "Pilih paket yang sesuai dengan kebutuhan dan anggaran bisnis Anda. Semua paket sudah termasuk revisi dan support.",
+  "currency": "Rp",
+  "packages": [
+    {
+      "id": "starter",
+      "name": "Starter",
+      "price": "1.500.000",
+      "period": "sekali bayar",
+      "description": "Cocok untuk bisnis yang baru mulai online dan butuh kehadiran digital cepat.",
+      "features": [
+        "Landing Page (1 halaman)",
+        "Mobile Responsive",
+        "Kontak WhatsApp",
+        "Google Maps",
+        "Basic SEO",
+        "Free Domain .com (1 tahun)",
+        "Hosting (1 tahun)",
+        "Support 30 hari"
+      ],
+      "highlighted": false,
+      "badge": "",
+      "ctaText": "Mulai Sekarang",
+      "published": true
+    },
+    {
+      "id": "professional",
+      "name": "Professional",
+      "price": "3.500.000",
+      "period": "sekali bayar",
+      "description": "Untuk bisnis yang serius berkembang dengan website multi-halaman yang profesional.",
+      "features": [
+        "Website 5–8 Halaman",
+        "Mobile Responsive",
+        "Admin Panel Sederhana",
+        "Galeri & Portfolio",
+        "Google Analytics",
+        "Full SEO Optimization",
+        "Free Domain .com (1 tahun)",
+        "Hosting (1 tahun)",
+        "Support 60 hari",
+        "3x Revisi Desain"
+      ],
+      "highlighted": true,
+      "badge": "Paling Populer",
+      "ctaText": "Pilih Paket Ini",
+      "published": true
+    },
+    {
+      "id": "enterprise",
+      "name": "Enterprise",
+      "price": "Custom",
+      "period": "diskusi",
+      "description": "Solusi lengkap untuk bisnis besar dengan kebutuhan fitur khusus dan integrasi kompleks.",
+      "features": [
+        "Website Unlimited Halaman",
+        "E-Commerce / Booking System",
+        "Custom Admin Panel",
+        "Integrasi Payment Gateway",
+        "Custom API Integration",
+        "Advanced SEO & Analytics",
+        "Domain & Hosting Premium",
+        "Support 90 hari",
+        "Unlimited Revisi",
+        "Priority Support"
+      ],
+      "highlighted": false,
+      "badge": "Custom",
+      "ctaText": "Konsultasi Gratis",
+      "published": true
+    }
+  ],
+  "note": "* Harga belum termasuk PPN 11%. Hubungi kami untuk penawaran khusus project besar.",
+  "ctaText": "Tidak yakin paket mana yang cocok? Konsultasi gratis!",
+  "ctaUrl": "https://wa.me/6282199870047"
+}

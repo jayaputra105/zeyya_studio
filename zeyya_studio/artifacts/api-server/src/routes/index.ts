@@ -1,8 +1,8 @@
 import { Router, type IRouter } from "express";
 import healthRouter from "./health";
+import publishRouter from "./publish";
 import dataRouter from "./data";
 import mediaRouter from "./media";
-import publishRouter from "./publish";
 
 const router: IRouter = Router();
 

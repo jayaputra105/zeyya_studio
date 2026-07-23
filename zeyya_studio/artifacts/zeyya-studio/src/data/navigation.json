@@ -1,0 +1,13 @@
+{
+  "brand": "Zeyya Studio",
+  "logoUrl": "",
+  "items": [
+    { "id": "nav-1", "label": "Layanan", "href": "#layanan", "order": 1, "published": true },
+    { "id": "nav-2", "label": "Portfolio", "href": "/projects", "order": 2, "published": true },
+    { "id": "nav-3", "label": "Tentang", "href": "#about", "order": 3, "published": true },
+    { "id": "nav-4", "label": "FAQ", "href": "#faq", "order": 4, "published": true }
+  ],
+  "ctaText": "Hubungi Kami",
+  "ctaUrl": "https://wa.me/6282199870047",
+  "ctaStyle": "primary"
+}

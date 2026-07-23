@@ -1,0 +1,18 @@
+{
+  "badge": "Testimoni",
+  "title": "Apa Kata",
+  "titleAccent": "Klien Kami",
+  "description": "Kepercayaan klien adalah prioritas utama kami.",
+  "items": [
+    {
+      "id": "t1",
+      "quote": "Sekarang pelanggan bisa langsung lihat menu dari HP tanpa ribet download PDF. Pesanan jadi lebih banyak!",
+      "author": "Owner, Lila Catering",
+      "role": "Kediri",
+      "avatar": "",
+      "rating": 5,
+      "published": true,
+      "order": 1
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "badge": "FAQ",
+  "title": "Pertanyaan yang",
+  "titleAccent": "Sering Ditanyakan",
+  "description": "Tidak menemukan jawaban yang Anda cari? Langsung tanyakan ke kami.",
+  "ctaText": "Tanya Langsung via WA",
+  "ctaUrl": "https://wa.me/6282199870047",
+  "items": [
+    {
+      "id": "faq-1",
+      "question": "Berapa biaya pembuatan website?",
+      "answer": "Biaya bervariasi tergantung kompleksitas dan fitur yang dibutuhkan. Kami menyediakan berbagai paket mulai dari website landing page sederhana hingga website e-commerce lengkap. Hubungi kami untuk konsultasi gratis dan penawaran yang sesuai dengan budget Anda.",
+      "published": true,
+      "order": 1
+    },
+    {
+      "id": "faq-2",
+      "question": "Berapa lama proses pengerjaan website?",
+      "answer": "Rata-rata 7–14 hari kerja tergantung kompleksitas project dan seberapa cepat konten/aset dari klien tersedia. Landing page sederhana bisa selesai dalam 5–7 hari, sedangkan website dengan fitur lengkap membutuhkan 14–21 hari.",
+      "published": true,
+      "order": 2
+    },
+    {
+      "id": "faq-3",
+      "question": "Apakah saya bisa request revisi?",
+      "answer": "Ya, setiap project sudah termasuk sesi revisi. Kami tidak selesai sampai Anda benar-benar puas dengan hasilnya. Revisi minor bisa dilakukan berkali-kali selama masih dalam scope project yang disepakati.",
+      "published": true,
+      "order": 3
+    },
+    {
+      "id": "faq-4",
+      "question": "Apakah ada garansi setelah website selesai?",
+      "answer": "Kami memberikan support teknis selama 30 hari setelah website diluncurkan. Jika ada bug atau masalah teknis, kami tangani gratis. Setelah itu tersedia paket maintenance bulanan jika Anda membutuhkan support berkelanjutan.",
+      "published": true,
+      "order": 4
+    },
+    {
+      "id": "faq-5",
+      "question": "Bisnis apa saja yang bisa Zeyya Studio bantu?",
+      "answer": "Semua jenis bisnis! UMKM, rumah makan, cafe, hotel, klinik, bengkel, toko fashion, salon, sekolah, startup, company profile, hingga e-commerce. Kami sudah memiliki pengalaman di berbagai industri dan memahami kebutuhan unik masing-masing.",
+      "published": true,
+      "order": 5
+    },
+    {
+      "id": "faq-6",
+      "question": "Apakah website yang dibuat mobile-friendly?",
+      "answer": "Ya, 100% responsif dan mobile-first. Lebih dari 80% pengunjung website datang dari perangkat mobile, jadi kami selalu memastikan pengalaman mobile sempurna terlebih dahulu sebelum desktop.",
+      "published": true,
+      "order": 6
+    },
+    {
+      "id": "faq-7",
+      "question": "Bagaimana proses kerjasama dimulai?",
+      "answer": "Sangat mudah! (1) Hubungi kami via WhatsApp untuk konsultasi gratis, (2) Kami diskusikan kebutuhan dan tujuan bisnis Anda, (3) Kami kirim proposal & penawaran harga, (4) Setelah sepakat, pengerjaan dimulai. Anda akan selalu update setiap tahapan progress.",
+      "published": true,
+      "order": 7
+    },
+    {
+      "id": "faq-8",
+      "question": "Apakah saya perlu menyediakan hosting dan domain sendiri?",
+      "answer": "Tidak perlu. Kami bisa mengurus hosting, domain, dan semua kebutuhan teknis untuk Anda. Atau jika Anda sudah punya, kami bisa gunakan yang sudah ada. Semuanya fleksibel sesuai kebutuhan.",
+      "published": true,
+      "order": 8
+    },
+    {
+      "id": "faq-9",
+      "question": "Apakah website bisa diupdate sendiri setelah jadi?",
+      "answer": "Tergantung platform yang dipilih. Kami bisa membangun dengan CMS (Content Management System) sehingga Anda bisa update konten sendiri tanpa perlu coding. Kami juga menyediakan training singkat cara penggunaannya.",
+      "published": true,
+      "order": 9
+    }
+  ]
+}

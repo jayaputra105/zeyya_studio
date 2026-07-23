@@ -1,0 +1,51 @@
+{
+  "badge": "Dipercaya berbagai UMKM Indonesia",
+  "headlines": [
+    {
+      "plain": "Website yang Tidak Hanya Indah.",
+      "accent": "Tapi Benar-benar Menghasilkan Pelanggan."
+    },
+    {
+      "plain": "Bangun Kepercayaan Pelanggan",
+      "accent": "dalam 5 Detik Pertama."
+    },
+    {
+      "plain": "Kami Mendesain Pengalaman Digital yang",
+      "accent": "Membuat Bisnis Terlihat Lebih Premium."
+    }
+  ],
+  "description": "Kami membantu UMKM dan bisnis lokal Indonesia tampil profesional di dunia digital. Desain premium, performa cepat, dan konversi yang terbukti.",
+  "ctaPrimary": {
+    "text": "Lihat Portfolio Kami",
+    "url": "/projects"
+  },
+  "ctaSecondary": {
+    "text": "Konsultasi Gratis",
+    "url": "https://wa.me/628xxxxxxxxx"
+  },
+  "stats": [
+    { "value": "50+", "label": "Proyek Selesai" },
+    { "value": "100%", "label": "Kepuasan Klien" },
+    { "value": "7–14", "label": "Hari Pengerjaan" }
+  ],
+  "slides": [
+    { "label": "Website Restaurant", "color": "#C85200", "bg": "from-[#3D1000] via-[#1A0800] to-[#0A0A0A]", "icon": "🍽️" },
+    { "label": "Website Hotel", "color": "#7C4A00", "bg": "from-[#2D1A00] via-[#150D00] to-[#0A0A0A]", "icon": "🏨" },
+    { "label": "Website Klinik", "color": "#005C7A", "bg": "from-[#001F2E] via-[#000D13] to-[#0A0A0A]", "icon": "🏥" },
+    { "label": "Website Sekolah", "color": "#1A5C00", "bg": "from-[#0A1F00] via-[#050F00] to-[#0A0A0A]", "icon": "🎓" },
+    { "label": "Website Laundry", "color": "#3D2A7A", "bg": "from-[#160D2E] via-[#080614] to-[#0A0A0A]", "icon": "👕" },
+    { "label": "Website Fashion", "color": "#8C1A5C", "bg": "from-[#2E0820] via-[#14040E] to-[#0A0A0A]", "icon": "👗" },
+    { "label": "Company Profile", "color": "#1A3A7A", "bg": "from-[#0A1430] via-[#040814] to-[#0A0A0A]", "icon": "🏢" },
+    { "label": "Website Coffee Shop", "color": "#5C2A00", "bg": "from-[#1F0E00] via-[#0A0500] to-[#0A0A0A]", "icon": "☕" },
+    { "label": "Logo Design", "color": "#FF6B00", "bg": "from-[#2D1200] via-[#140800] to-[#0A0A0A]", "icon": "✏️" },
+    { "label": "Brand Identity", "color": "#7A001A", "bg": "from-[#2E000A] via-[#140004] to-[#0A0A0A]", "icon": "💎" }
+  ],
+  "clients": [
+    "Lila Catering", "Restoran Nusantara", "Hotel Bintang Timur", "Klinik Sehat",
+    "Toko Batik Ayu", "CV Maju Jaya", "Cafe Kopi Darat", "Sekolah Harapan",
+    "Salon Cantik", "Bengkel Prima", "UMKM Sukses", "Brand Lokal"
+  ],
+  "mockupImage": "/assets/mockup-lila-catering.png",
+  "mockupUrl": "lilacatering.id",
+  "mockupClient": "Lila Catering"
+}

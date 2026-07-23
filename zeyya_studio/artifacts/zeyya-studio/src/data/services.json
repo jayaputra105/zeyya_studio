@@ -1,0 +1,91 @@
+{
+  "badge": "Layanan Kami",
+  "title": "Solusi Digital",
+  "titleAccent": "End-to-End",
+  "description": "Kesan pertama menentukan keputusan pelanggan. Kami mendesain setiap elemen digital Anda agar membangun kepercayaan bahkan sebelum mereka menghubungi Anda.",
+  "ctaText": "Diskusikan Kebutuhan Anda",
+  "ctaUrl": "https://wa.me/6282199870047",
+  "services": [
+    {
+      "id": "website",
+      "title": "Website Development",
+      "description": "Website modern, cepat, dan mobile-friendly yang mengkonversi pengunjung menjadi pelanggan nyata — bukan sekadar tampilan.",
+      "icon": "MonitorSmartphone",
+      "accent": "#FF6B00",
+      "size": "wide",
+      "published": true
+    },
+    {
+      "id": "logo",
+      "title": "Logo Design",
+      "description": "Logo yang bercerita, dikenali, dan membangun kepercayaan sejak pandangan pertama.",
+      "icon": "PenTool",
+      "accent": "#FF9500",
+      "size": "normal",
+      "published": true
+    },
+    {
+      "id": "brand",
+      "title": "Brand Identity",
+      "description": "Identitas brand yang konsisten dari warna, tipografi, hingga tone of voice.",
+      "icon": "Palette",
+      "accent": "#FFBC00",
+      "size": "normal",
+      "published": true
+    },
+    {
+      "id": "social-media",
+      "title": "Social Media Marketing",
+      "description": "Strategi konten digital yang tepat sasaran untuk meningkatkan jangkauan dan mendorong penjualan.",
+      "icon": "TrendingUp",
+      "accent": "#FF6B00",
+      "size": "wide",
+      "published": true
+    },
+    {
+      "id": "uiux",
+      "title": "UI/UX Design",
+      "description": "Desain antarmuka yang intuitif, nyaman digunakan, dan meningkatkan konversi.",
+      "icon": "Layers",
+      "accent": "#FF8C42",
+      "size": "normal",
+      "published": true
+    },
+    {
+      "id": "seo",
+      "title": "SEO Optimization",
+      "description": "Mudah ditemukan di Google. Website Anda muncul saat calon pelanggan mencari.",
+      "icon": "Search",
+      "accent": "#FFB347",
+      "size": "normal",
+      "published": true
+    },
+    {
+      "id": "maintenance",
+      "title": "Maintenance",
+      "description": "Perawatan rutin agar website selalu cepat, aman, dan up-to-date.",
+      "icon": "Wrench",
+      "accent": "#FF7B2C",
+      "size": "normal",
+      "published": true
+    },
+    {
+      "id": "hosting",
+      "title": "Hosting",
+      "description": "Server cepat dan stabil. Website Anda online 24/7 tanpa gangguan.",
+      "icon": "HardDrive",
+      "accent": "#FF9944",
+      "size": "normal",
+      "published": true
+    },
+    {
+      "id": "domain",
+      "title": "Domain",
+      "description": "Alamat digital profesional yang mudah diingat dan mencerminkan brand Anda.",
+      "icon": "Globe",
+      "accent": "#FFAA33",
+      "size": "normal",
+      "published": true
+    }
+  ]
+}

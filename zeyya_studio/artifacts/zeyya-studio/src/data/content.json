@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "id": "static-0",
+      "slug": "lila-catering",
+      "category": "Website Development",
+      "clientName": "Lila Catering",
+      "mockupImage": "",
+      "problemSummary": "Pelanggan kesulitan melihat menu PDF di berbagai perangkat",
+      "solutionSummary": "Website modern dengan menu digital yang responsif dan mudah diakses",
+      "aboutClient": "Lila Catering adalah bisnis catering yang menyajikan berbagai menu makanan untuk berbagai acara di Indonesia.",
+      "problemDetail": "Pelanggan kesulitan mengakses menu yang disimpan dalam file PDF. Di beberapa perangkat, PDF tidak bisa dibuka dengan baik, menyebabkan calon pelanggan frustrasi dan berpotensi kehilangan order.",
+      "analysisDetail": "Penggunaan PDF untuk menu adalah hambatan UX yang signifikan. PDF tidak mobile-friendly, lambat dimuat, dan bergantung pada aplikasi pihak ketiga. Bisnis butuh solusi yang bisa diakses siapa saja, di perangkat apa saja, langsung dari browser.",
+      "solutionDetail": "Membangun website modern dengan halaman menu digital yang responsif, mudah diupdate, dan bisa diakses langsung dari browser tanpa download atau aplikasi tambahan. Website dioptimalkan untuk mobile users.",
+      "designConcept": "Clean, warm, dan appetizing. Warna yang menonjolkan cita rasa makanan. Layout yang menampilkan menu dengan visual yang menarik dan mudah dibaca.",
+      "technologies": ["Next.js", "Tailwind CSS", "Vercel (deployment)", "Responsive Design", "SEO Optimization"],
+      "features": [
+        "Menu digital interaktif",
+        "Sistem kategori menu",
+        "WhatsApp order integration",
+        "Mobile-first design",
+        "Fast loading",
+        "SEO ready"
+      ],
+      "result": "Website live di lilacatering.vercel.app. Pelanggan kini dapat mengakses menu dengan mudah di semua perangkat tanpa hambatan.",
+      "previewUrl": "lilacatering.vercel.app",
+      "testimonial": {
+        "quote": "Sekarang pelanggan bisa langsung lihat menu dari HP tanpa ribet download PDF. Pesanan jadi lebih banyak!",
+        "author": "Owner, Lila Catering"
+      }
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "quote": "Sekarang pelanggan bisa langsung lihat menu dari HP tanpa ribet download PDF. Pesanan jadi lebih banyak!",
+      "author": "Owner, Lila Catering",
+      "role": "Kediri"
+    }
+  ],
+  "settings": {
+    "whatsapp": "6282199870047",
+    "email": "hello@zeyyastudio.com",
+    "facebook": "zeyyastudio",
+    "instagram": "zeyyastudio"
+  },
+  "updatedAt": "2026-07-15T00:00:00.000Z"
+}

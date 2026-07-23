@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "id": "static-0",
+      "slug": "lila-catering",
+      "title": "Lila Catering",
+      "client": "Lila Catering",
+      "category": "Website Development",
+      "year": "2024",
+      "thumbnail": "",
+      "gallery": [],
+      "description": "Website modern dengan menu digital yang responsif dan mudah diakses",
+      "problem": "Pelanggan kesulitan mengakses menu yang disimpan dalam file PDF. Di beberapa perangkat, PDF tidak bisa dibuka dengan baik, menyebabkan calon pelanggan frustrasi dan berpotensi kehilangan order.",
+      "solution": "Membangun website modern dengan halaman menu digital yang responsif, mudah diupdate, dan bisa diakses langsung dari browser tanpa download atau aplikasi tambahan. Website dioptimalkan untuk mobile users.",
+      "result": "Website live di lilacatering.vercel.app. Pelanggan kini dapat mengakses menu dengan mudah di semua perangkat tanpa hambatan.",
+      "technologies": ["Next.js", "Tailwind CSS", "Vercel", "Responsive Design", "SEO Optimization"],
+      "features": ["Menu digital interaktif", "Sistem kategori menu", "WhatsApp order integration", "Mobile-first design", "Fast loading", "SEO ready"],
+      "demoUrl": "https://lilacatering.vercel.app",
+      "githubUrl": "",
+      "featured": true,
+      "published": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}

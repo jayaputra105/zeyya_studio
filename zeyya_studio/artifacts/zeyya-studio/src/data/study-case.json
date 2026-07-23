@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "id": "sc-0",
+      "portfolioId": "static-0",
+      "slug": "lila-catering-study",
+      "judul": "Transformasi Digital Lila Catering: Dari PDF ke Website Modern",
+      "client": "Lila Catering",
+      "industry": "Food & Beverage / Catering",
+      "problem": "Lila Catering mengandalkan file PDF untuk menampilkan menu kepada pelanggan. Hal ini menyebabkan berbagai masalah: PDF tidak bisa dibuka di semua perangkat, lambat diunduh, dan pelanggan kesulitan melihat menu dari smartphone. Bisnis kehilangan calon pelanggan sebelum mereka bahkan sempat melihat menu.",
+      "solution": "Kami membangun website modern dengan halaman menu digital interaktif yang fully responsive. Pelanggan dapat mengakses menu langsung dari browser tanpa perlu download apapun. Website juga dilengkapi tombol WhatsApp order untuk konversi langsung.",
+      "process": [
+        { "step": 1, "title": "Discovery & Research", "description": "Analisis kebutuhan bisnis, target audiens (keluarga, event organizer), dan pain points pelanggan saat ini." },
+        { "step": 2, "title": "Wireframe & Design", "description": "Membuat wireframe mobile-first, memilih palet warna warm dan appetizing yang mencerminkan brand catering." },
+        { "step": 3, "title": "Development", "description": "Build dengan Next.js untuk performa optimal, Tailwind CSS untuk styling, dan deploy di Vercel." },
+        { "step": 4, "title": "Testing & Launch", "description": "QA di berbagai device, optimasi loading speed, dan soft launch dengan monitoring." }
+      ],
+      "technology": ["Next.js", "Tailwind CSS", "Vercel", "SEO Optimization"],
+      "result": "Setelah website diluncurkan, Lila Catering melaporkan peningkatan inquiry melalui WhatsApp karena pelanggan kini bisa melihat menu dengan mudah dari smartphone mereka.",
+      "gallery": [],
+      "published": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}

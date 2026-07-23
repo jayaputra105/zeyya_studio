@@ -1,0 +1,9 @@
+{
+  "buildCommand": "pnpm --filter @workspace/zeyya-studio run build",
+  "outputDirectory": "artifacts/zeyya-studio/dist/public",
+  "installCommand": "pnpm install",
+  "framework": null,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

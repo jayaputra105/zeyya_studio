@@ -1,0 +1,25 @@
+{
+  "badge": "Tentang Kami",
+  "title": "Bukan Hanya Desainer.",
+  "titleAccent": "Kami Partner Digital Bisnis Anda.",
+  "story": "Zeyya Studio lahir dari keyakinan sederhana: setiap bisnis Indonesia, sekecil apapun, berhak tampil profesional di dunia digital. Kami bukan sekedar bikin website — kami membangun fondasi digital yang benar-benar menghasilkan.",
+  "missionTitle": "Misi Kami",
+  "mission": "Membantu UMKM dan bisnis Indonesia tampil profesional, dipercaya pelanggan, dan siap berkembang di era digital dengan solusi yang terjangkau namun berkualitas tinggi.",
+  "visionTitle": "Visi Kami",
+  "vision": "Menjadi studio digital terpercaya untuk ribuan bisnis Indonesia yang ingin berkembang melalui kehadiran digital yang kuat.",
+  "stats": [
+    { "value": "50+", "label": "Proyek Selesai" },
+    { "value": "100%", "label": "Kepuasan Klien" },
+    { "value": "3+", "label": "Tahun Pengalaman" },
+    { "value": "15+", "label": "Industri Ditangani" }
+  ],
+  "values": [
+    { "title": "Kualitas", "description": "Setiap pixel dibuat dengan penuh perhatian dan standar tinggi." },
+    { "title": "Kejujuran", "description": "Transparan dalam proses, harga, dan ekspektasi hasil." },
+    { "title": "Hasil Nyata", "description": "Kami ukur keberhasilan dari dampak nyata pada bisnis klien." }
+  ],
+  "founderName": "Zeyya",
+  "founderTitle": "Founder & Creative Director",
+  "founderBio": "Passionate tentang membangun pengalaman digital yang menghasilkan dampak nyata bagi bisnis Indonesia.",
+  "founderImage": ""
+}
