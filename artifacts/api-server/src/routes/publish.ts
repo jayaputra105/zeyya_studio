@@ -21,6 +21,7 @@ async function getGHSha(
     const res = await fetch(`${base}/${filePath}?ref=${branch}`, { headers });
     if (res.ok) return ((await res.json()) as { sha: string }).sha;
   } catch { /* file may not exist yet */ }
+return undefined;
 }
 
 router.post("/publish", async (req, res) => {
