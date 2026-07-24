@@ -37,6 +37,7 @@ minimumReleaseAgeExclude:
 packages:
   - artifacts/*
   - lib/*
+  - zeyya_studio/artifacts/*
   - lib/integrations/*
   - scripts
 
